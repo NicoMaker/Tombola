@@ -103,3 +103,18 @@ D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola Tabellone Grafico con statistich
 D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola Tabellone Grafico con statistiche nei cerchietti\Tombola\Tombola\obj\Debug\net7.0\Tombola.pdb
 D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola Tabellone Grafico con statistiche nei cerchietti\Tombola\Tombola\obj\Debug\net7.0\Tombola.genruntimeconfig.cache
 D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola Tabellone Grafico con statistiche nei cerchietti\Tombola\Tombola\obj\Debug\net7.0\ref\Tombola.dll
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\V6 Tombola Tabellone Grafico con statistiche con i cerchietti\Tombola\Tombola\bin\Debug\net7.0\Tombola.exe
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\V6 Tombola Tabellone Grafico con statistiche con i cerchietti\Tombola\Tombola\bin\Debug\net7.0\Tombola.deps.json
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\V6 Tombola Tabellone Grafico con statistiche con i cerchietti\Tombola\Tombola\bin\Debug\net7.0\Tombola.runtimeconfig.json
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\V6 Tombola Tabellone Grafico con statistiche con i cerchietti\Tombola\Tombola\bin\Debug\net7.0\Tombola.dll
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\V6 Tombola Tabellone Grafico con statistiche con i cerchietti\Tombola\Tombola\bin\Debug\net7.0\Tombola.pdb
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\V6 Tombola Tabellone Grafico con statistiche con i cerchietti\Tombola\Tombola\obj\Debug\net7.0\Tombola.csproj.AssemblyReference.cache
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\V6 Tombola Tabellone Grafico con statistiche con i cerchietti\Tombola\Tombola\obj\Debug\net7.0\Tombola.GeneratedMSBuildEditorConfig.editorconfig
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\V6 Tombola Tabellone Grafico con statistiche con i cerchietti\Tombola\Tombola\obj\Debug\net7.0\Tombola.AssemblyInfoInputs.cache
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\V6 Tombola Tabellone Grafico con statistiche con i cerchietti\Tombola\Tombola\obj\Debug\net7.0\Tombola.AssemblyInfo.cs
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\V6 Tombola Tabellone Grafico con statistiche con i cerchietti\Tombola\Tombola\obj\Debug\net7.0\Tombola.csproj.CoreCompileInputs.cache
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\V6 Tombola Tabellone Grafico con statistiche con i cerchietti\Tombola\Tombola\obj\Debug\net7.0\Tombola.dll
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\V6 Tombola Tabellone Grafico con statistiche con i cerchietti\Tombola\Tombola\obj\Debug\net7.0\refint\Tombola.dll
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\V6 Tombola Tabellone Grafico con statistiche con i cerchietti\Tombola\Tombola\obj\Debug\net7.0\Tombola.pdb
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\V6 Tombola Tabellone Grafico con statistiche con i cerchietti\Tombola\Tombola\obj\Debug\net7.0\Tombola.genruntimeconfig.cache
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\V6 Tombola Tabellone Grafico con statistiche con i cerchietti\Tombola\Tombola\obj\Debug\net7.0\ref\Tombola.dll

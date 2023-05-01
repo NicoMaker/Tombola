@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Corso ITS IIOT\\Progetti C#\\CORSO OPP\\Tombola Tabellone Grafico con statistiche nei cerchietti\\Tombola\\Tombola\\Tombola.csproj": {}
+    "D:\\Corso ITS IIOT\\Progetti C#\\CORSO OPP\\Tombola\\V6 Tombola Tabellone Grafico con statistiche con i cerchietti\\Tombola\\Tombola\\Tombola.csproj": {}
   },
   "projects": {
-    "D:\\Corso ITS IIOT\\Progetti C#\\CORSO OPP\\Tombola Tabellone Grafico con statistiche nei cerchietti\\Tombola\\Tombola\\Tombola.csproj": {
+    "D:\\Corso ITS IIOT\\Progetti C#\\CORSO OPP\\Tombola\\V6 Tombola Tabellone Grafico con statistiche con i cerchietti\\Tombola\\Tombola\\Tombola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Corso ITS IIOT\\Progetti C#\\CORSO OPP\\Tombola Tabellone Grafico con statistiche nei cerchietti\\Tombola\\Tombola\\Tombola.csproj",
+        "projectUniqueName": "D:\\Corso ITS IIOT\\Progetti C#\\CORSO OPP\\Tombola\\V6 Tombola Tabellone Grafico con statistiche con i cerchietti\\Tombola\\Tombola\\Tombola.csproj",
         "projectName": "Tombola",
-        "projectPath": "D:\\Corso ITS IIOT\\Progetti C#\\CORSO OPP\\Tombola Tabellone Grafico con statistiche nei cerchietti\\Tombola\\Tombola\\Tombola.csproj",
+        "projectPath": "D:\\Corso ITS IIOT\\Progetti C#\\CORSO OPP\\Tombola\\V6 Tombola Tabellone Grafico con statistiche con i cerchietti\\Tombola\\Tombola\\Tombola.csproj",
         "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
-        "outputPath": "D:\\Corso ITS IIOT\\Progetti C#\\CORSO OPP\\Tombola Tabellone Grafico con statistiche nei cerchietti\\Tombola\\Tombola\\obj\\",
+        "outputPath": "D:\\Corso ITS IIOT\\Progetti C#\\CORSO OPP\\Tombola\\V6 Tombola Tabellone Grafico con statistiche con i cerchietti\\Tombola\\Tombola\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

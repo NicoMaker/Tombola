@@ -47,12 +47,15 @@ td:nth-child(2n + 3)
 .Rosso{
     background-color: cyan;
     border-radius: 50px;
+    border: solid red 10px;
 }
 
 .contorno{
     border-radius: 50px;
     background-color: white;
     background-color: orange;
+    border: solid white 10px;
+    font-weight: bold;
 }
 
 p{
