@@ -1,0 +1,60 @@
+C:\Users\Utente\Desktop\Tombola\Tombola\Tombola\bin\Debug\net7.0\Tombola.exe
+C:\Users\Utente\Desktop\Tombola\Tombola\Tombola\bin\Debug\net7.0\Tombola.deps.json
+C:\Users\Utente\Desktop\Tombola\Tombola\Tombola\bin\Debug\net7.0\Tombola.runtimeconfig.json
+C:\Users\Utente\Desktop\Tombola\Tombola\Tombola\bin\Debug\net7.0\Tombola.dll
+C:\Users\Utente\Desktop\Tombola\Tombola\Tombola\bin\Debug\net7.0\Tombola.pdb
+C:\Users\Utente\Desktop\Tombola\Tombola\Tombola\obj\Debug\net7.0\Tombola.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Tombola\Tombola\Tombola\obj\Debug\net7.0\Tombola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\Tombola\Tombola\Tombola\obj\Debug\net7.0\Tombola.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\Tombola\Tombola\Tombola\obj\Debug\net7.0\Tombola.AssemblyInfo.cs
+C:\Users\Utente\Desktop\Tombola\Tombola\Tombola\obj\Debug\net7.0\Tombola.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Tombola\Tombola\Tombola\obj\Debug\net7.0\Tombola.dll
+C:\Users\Utente\Desktop\Tombola\Tombola\Tombola\obj\Debug\net7.0\refint\Tombola.dll
+C:\Users\Utente\Desktop\Tombola\Tombola\Tombola\obj\Debug\net7.0\Tombola.pdb
+C:\Users\Utente\Desktop\Tombola\Tombola\Tombola\obj\Debug\net7.0\Tombola.genruntimeconfig.cache
+C:\Users\Utente\Desktop\Tombola\Tombola\Tombola\obj\Debug\net7.0\ref\Tombola.dll
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\bin\Debug\net7.0\Tombola.exe
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\bin\Debug\net7.0\Tombola.deps.json
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\bin\Debug\net7.0\Tombola.runtimeconfig.json
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\bin\Debug\net7.0\Tombola.dll
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\bin\Debug\net7.0\Tombola.pdb
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\obj\Debug\net7.0\Tombola.csproj.AssemblyReference.cache
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\obj\Debug\net7.0\Tombola.GeneratedMSBuildEditorConfig.editorconfig
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\obj\Debug\net7.0\Tombola.AssemblyInfoInputs.cache
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\obj\Debug\net7.0\Tombola.AssemblyInfo.cs
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\obj\Debug\net7.0\Tombola.csproj.CoreCompileInputs.cache
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\obj\Debug\net7.0\Tombola.dll
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\obj\Debug\net7.0\refint\Tombola.dll
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\obj\Debug\net7.0\Tombola.pdb
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\obj\Debug\net7.0\Tombola.genruntimeconfig.cache
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\obj\Debug\net7.0\ref\Tombola.dll
+D:\NICOLA\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\bin\Debug\net7.0\Tombola.exe
+D:\NICOLA\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\bin\Debug\net7.0\Tombola.deps.json
+D:\NICOLA\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\bin\Debug\net7.0\Tombola.runtimeconfig.json
+D:\NICOLA\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\bin\Debug\net7.0\Tombola.dll
+D:\NICOLA\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\bin\Debug\net7.0\Tombola.pdb
+D:\NICOLA\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\obj\Debug\net7.0\Tombola.csproj.AssemblyReference.cache
+D:\NICOLA\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\obj\Debug\net7.0\Tombola.GeneratedMSBuildEditorConfig.editorconfig
+D:\NICOLA\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\obj\Debug\net7.0\Tombola.AssemblyInfoInputs.cache
+D:\NICOLA\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\obj\Debug\net7.0\Tombola.AssemblyInfo.cs
+D:\NICOLA\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\obj\Debug\net7.0\Tombola.csproj.CoreCompileInputs.cache
+D:\NICOLA\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\obj\Debug\net7.0\Tombola.dll
+D:\NICOLA\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\obj\Debug\net7.0\refint\Tombola.dll
+D:\NICOLA\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\obj\Debug\net7.0\Tombola.pdb
+D:\NICOLA\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\obj\Debug\net7.0\Tombola.genruntimeconfig.cache
+D:\NICOLA\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\obj\Debug\net7.0\ref\Tombola.dll
+E:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\bin\Debug\net7.0\Tombola.exe
+E:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\bin\Debug\net7.0\Tombola.deps.json
+E:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\bin\Debug\net7.0\Tombola.runtimeconfig.json
+E:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\bin\Debug\net7.0\Tombola.dll
+E:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\bin\Debug\net7.0\Tombola.pdb
+E:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\obj\Debug\net7.0\Tombola.csproj.AssemblyReference.cache
+E:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\obj\Debug\net7.0\Tombola.GeneratedMSBuildEditorConfig.editorconfig
+E:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\obj\Debug\net7.0\Tombola.AssemblyInfoInputs.cache
+E:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\obj\Debug\net7.0\Tombola.AssemblyInfo.cs
+E:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\obj\Debug\net7.0\Tombola.csproj.CoreCompileInputs.cache
+E:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\obj\Debug\net7.0\Tombola.dll
+E:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\obj\Debug\net7.0\refint\Tombola.dll
+E:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\obj\Debug\net7.0\Tombola.pdb
+E:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\obj\Debug\net7.0\Tombola.genruntimeconfig.cache
+E:\Corso ITS IIOT\Progetti C#\CORSO OPP\Tombola\Tombola\Tombola\obj\Debug\net7.0\ref\Tombola.dll
