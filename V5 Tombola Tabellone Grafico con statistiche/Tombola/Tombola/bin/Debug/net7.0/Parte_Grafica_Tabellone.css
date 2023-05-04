@@ -1,0 +1,66 @@
+h1 
+{
+    font-family: 'Dancing Script', cursive;
+    color: #ff0d05;
+    font-size: 50px;
+    text-align: center;
+}
+
+table 
+{
+    width: 100%;
+}
+
+td,th 
+{
+    font-family: 'Roboto', sans-serif;
+    border: 1px solid;
+    text-align: center;
+    padding: 15px;
+    font-size:30px;
+}
+
+tr
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+.Immagine 
+{
+    display: block;
+    margin: 0 auto;
+    width:auto;
+    height: 200px;
+}
+
+
+.Titolo_Scritte
+{
+    font-family: 'Dancing Script', cursive;
+    color: #05ff3b;
+    font-size: 40px;
+    text-align: center;
+}
+
+
+td:nth-child(-n + 1) 
+{
+    background-color: #f0ec067e;
+}
+
+td:nth-child(2n) 
+{
+    background-color: #09ff0059;
+}
+
+
+td:nth-child(2n + 3) 
+{
+    background-color: #f0ec067e;
+}
+
+.Rosso{
+    color: red;
+    font-weight: bold;
+}
